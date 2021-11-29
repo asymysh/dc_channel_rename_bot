@@ -1,0 +1,23 @@
+{
+    "name": "channelchangekaro",
+    "version": "1.0.0",
+    "description": "Discord Channel Rename Bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "asymysh",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+        "discord.js": "^13.3.1",
+        "express": "^4.17.1"
+    }
+}
