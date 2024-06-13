@@ -1,5 +1,7 @@
 # dc_channel_rename_bot
 
+#Discord Bot for Group Collaborations
+
 Rudimentary Discord bot coded in NodsJS with Discord.js  
 Feel free to add a star ⭐ to the repository if the bot helped you save time :_)
 
